@@ -1,6 +1,6 @@
 from datetime import datetime
 from os import makedirs
-from Base import CustomSession
+from Bharat_sm_data.Base import CustomSession
 
 
 class BSE(CustomSession):

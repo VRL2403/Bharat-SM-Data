@@ -1,6 +1,6 @@
 import pandas as pd
 
-from Base import NSEBase
+from Bharat_sm_data.Base import NSEBase
 
 # constants
 

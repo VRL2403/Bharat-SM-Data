@@ -4,7 +4,7 @@ import pandas as pd
 import pydash as _
 from bs4 import BeautifulSoup
 
-from Base import CustomSession
+from Bharat_sm_data.Base import CustomSession
 
 
 class Tickertape(CustomSession):

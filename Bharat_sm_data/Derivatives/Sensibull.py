@@ -4,7 +4,7 @@ import pandas as pd
 import pydash as _
 import json
 
-from Base import CustomSession
+from Bharat_sm_data.Base import CustomSession
 
 
 class Sensibull(CustomSession):

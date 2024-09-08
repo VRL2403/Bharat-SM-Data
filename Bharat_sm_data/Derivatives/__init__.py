@@ -1,2 +1,2 @@
-from Derivatives.NSE import NSE
-from Derivatives.Sensibull import Sensibull
+from Bharat_sm_data.Derivatives.NSE import NSE
+from Bharat_sm_data.Derivatives.Sensibull import Sensibull

@@ -8,7 +8,7 @@ import pandas as pd
 from bs4 import BeautifulSoup
 from pydash.collections import find
 
-from Base import CustomSession
+from Bharat_sm_data.Base import CustomSession
 
 warnings.filterwarnings('ignore')
 
